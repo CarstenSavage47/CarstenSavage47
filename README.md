@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CarstenSavage47
+- 👋 Hi, I’m Carsten Savage.
 - 👀 I’m interested in employing machine learning in the financial services industry. 
 - 🌱 I’m currently learning how to use PyTorch.
 - 💞️ I’m looking to collaborate on data science projects related to finance and econometrics.
-- 📫 Feel free to connect with me on LinkedIn. 
+- 📫 Feel free to connect with me on LinkedIn at https://www.linkedin.com/in/carstenjs/
