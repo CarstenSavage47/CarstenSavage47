@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Carsten Savage.
-- 👀 I’m interested in employing machine learning in the financial services industry. 
+- 👀 I’m interested in data analytics and applied statistics. 
 - 🌱 I’m currently learning how to use PyTorch and XGBoost.
-- 💞️ I’m looking to collaborate on data science projects related to finance and econometrics.
 - 📫 Feel free to connect with me on LinkedIn at https://www.linkedin.com/in/carstenjs/
