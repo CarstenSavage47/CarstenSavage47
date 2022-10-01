@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Carsten Savage.
-- 👀 I’m interested in data analytics and applied statistics. 
+- 🤓 I’m interested in data analytics and applied statistics. 
 - 🌱 I’m currently learning how to use PyTorch and XGBoost.
 - 📫 Feel free to connect with me on LinkedIn at https://www.linkedin.com/in/carstenjs/
