@@ -3,5 +3,7 @@
 
 ```mermaid
 flowchart LR 
-    A
+    Stata -> R
+    R -> SQL
+    R -> Python
 ```
