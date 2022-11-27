@@ -2,7 +2,7 @@
 - 📫 Feel free to connect with me on LinkedIn at https://www.linkedin.com/in/carstenjs/
 
 ```mermaid
-flowchart 
-    A[Start analysis] --> B[Do The Analysis]
-    B --> C[Finish the analysis]
+flowchart LR
+    A[I'm] --> B[Currently]
+    B --> C[Experimenting with Mermaid.js]
 ```
